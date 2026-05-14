@@ -31,6 +31,8 @@ restaurant success, measured by ratings.
 
 ## 📁 Dataset
 Indian Restaurants dataset from Zomato
+> Note: Dataset is in `.csv.gz` (compressed) format. 
+> Open with: `pd.read_csv('Zomato-Indian-Resturants.csv.gz')`
 
 ## 🚀 How to Run
 1. Clone the repo: `git clone <repo-url>`
