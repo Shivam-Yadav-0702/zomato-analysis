@@ -34,6 +34,10 @@ Indian Restaurants dataset from Zomato
 > Note: Dataset is in `.csv.gz` (compressed) format. 
 > Open with: `pd.read_csv('Zomato-Indian-Resturants.csv.gz')`
 
+
+## 📎 Presentation
+- 📊 [View Presentation (PPT)](./your-file-name.pptx)
+
 ## 🚀 How to Run
 1. Clone the repo: `git clone <repo-url>`
 2. Install dependencies: `pip install -r requirements.txt`
